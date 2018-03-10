@@ -71,7 +71,7 @@ namespace CCMApp.WebScraper.Parsers
                                            .GetAttributeValue("href", String.Empty)
                                            .OnlyNumbers(),
 
-                    TitleBA = movieNode.SelectSingleNode(".//img[@class='fotkag']")
+                    TitleBA = movieNode.SelectSingleNode(".//img[@class='fotka']")
                                        .NextSibling
                                        .NextSibling
                                        .SelectSingleNode(".//a")
