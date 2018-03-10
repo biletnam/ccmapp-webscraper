@@ -1,0 +1,806 @@
+[
+  {
+    "Id": "5367a1e5-4f85-434b-b686-2b8b79f86f57",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1203_0_web.jpg",
+    "Title": "Tomb Raider",
+    "TitleBA": "TOMB RAIDER 3D",
+    "Duration": "118",
+    "Genre": "Akcija, avantura",
+    "Director": "Roar Uthaug",
+    "Cast": "Alicia Vikander, Walton Goggins, Hannah John-Kamen ...",
+    "SiteMovieId": "1203",
+    "Storyline": "Lara Croft je strastvena, samostalna djevojka i kći ekscentričnog pustolova koji je nestao dok je ona još bila tinejdžerica. Sada, nakon sedam godina, Lara nema nikakav stvaran cilj ili svrhu te odbija preuzeti uzde carstva svojeg oca jednako kao što odbija priznati da je stvarno otišao.    Protiveći se očevim posljednjim željama Lara odlučuje ostaviti sve iza sebe kako bi riješila zagonetku njegova misterioznoga nestanka, a svoju potragu započinje istraživanjem posljednje lokacije na kojoj je viđen...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1203_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=o42ALqGOZBk",
+    "Showtimes": [
+      {
+        "Id": "a9b0650d-0b52-4e6e-a150-1e31c1ec0506",
+        "DateTime": "2018-03-14T20:00:00"
+      }
+    ]
+  },
+  {
+    "Id": "5190988c-1bf0-4e9b-8d9f-15d6aa5824a9",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1202_0_web.jpg",
+    "Title": "Winchester",
+    "TitleBA": "KUĆA DUHOVA",
+    "Duration": "99",
+    "Genre": "Biografija, fantazija, horor",
+    "Director": "Michael Spierig, Peter Spierig",
+    "Cast": "Jason Clarke, Sarah Snook, Helen Mirren...",
+    "SiteMovieId": "1202",
+    "Storyline": "Film donosi radnju inspiriranu stvarnom Sarah Winchester (Helen Mirren) i prikazuje ekscentričnu nasljednicu bogatstva stečenog oružjem koja vjeruje da je progonjena dušama onih ubijenih Winchester puškom. Prema legendi, Sarah Winchester je vjerovala da će ostati živa dokle god će graditi svoju kuću. Film se snimao na autentičnoj lokaciji, što je bilo izuzetno teško i komplicirano filmskoj ekipi s obzirom na skučenost kuće. Sarah Winchester je beskrajno i stalno gradila tu kuću, vjerujući da će ju, ako prestane, duhovi ubijenih progoniti i na kraju ubiti. Kuću je gradila punih 38 godina. No, njezina gradnja bila je pomalo bizarna s obzirom na to da se razna vrata i prozori otvaraju u zidove ili jednostavno ne vode nikamo...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1202_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=NbUoPTjFYw8",
+    "Showtimes": [
+      {
+        "Id": "73193b06-592d-4bf3-8648-b2cff7027066",
+        "DateTime": "2018-03-11T15:45:00"
+      },
+      {
+        "Id": "be37e4dc-44e1-4ac7-b421-67392508a4c4",
+        "DateTime": "2018-03-11T20:30:00"
+      },
+      {
+        "Id": "723738e7-d6d6-4f8b-aa5b-c574d21c032a",
+        "DateTime": "2018-03-12T15:45:00"
+      },
+      {
+        "Id": "8a2af7fb-0b98-4f48-b922-c516a5d1218f",
+        "DateTime": "2018-03-12T20:30:00"
+      },
+      {
+        "Id": "4051ceae-8724-4c2c-8706-61b5369e03bb",
+        "DateTime": "2018-03-13T15:45:00"
+      },
+      {
+        "Id": "7217a3d5-e6ac-4cac-90ef-5072085a0f79",
+        "DateTime": "2018-03-13T20:30:00"
+      },
+      {
+        "Id": "60af07b3-a584-4a24-93a0-502949964fa0",
+        "DateTime": "2018-03-14T15:45:00"
+      },
+      {
+        "Id": "0dd5ac5b-73ac-436b-880e-78da1b9bab87",
+        "DateTime": "2018-03-14T20:30:00"
+      },
+      {
+        "Id": "cf784a48-6d43-4cb2-9077-eb5de5de1c7f",
+        "DateTime": "2018-03-08T15:45:00"
+      },
+      {
+        "Id": "447dccaf-0234-44b1-8582-4fd12baf6644",
+        "DateTime": "2018-03-08T20:30:00"
+      },
+      {
+        "Id": "cad72ebd-95ea-4e41-b8ff-137c04a9a80b",
+        "DateTime": "2018-03-09T15:45:00"
+      },
+      {
+        "Id": "9daf7875-0020-425e-93cb-18e6b575d51d",
+        "DateTime": "2018-03-09T20:30:00"
+      },
+      {
+        "Id": "6d07995d-1059-4ce9-9914-7d5df4f9c360",
+        "DateTime": "2018-03-09T22:35:00"
+      },
+      {
+        "Id": "2bb88b69-a34c-4e7a-afc6-e1f428792ce3",
+        "DateTime": "2018-03-10T15:45:00"
+      },
+      {
+        "Id": "f5e22430-a2fa-4c4a-badd-39030d2ad754",
+        "DateTime": "2018-03-10T20:30:00"
+      },
+      {
+        "Id": "a30f2364-e610-4850-8e8a-c39b895212a6",
+        "DateTime": "2018-03-10T22:35:00"
+      }
+    ]
+  },
+  {
+    "Id": "e0b31574-98a1-4513-9fe5-c814ca28ad47",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1212_0_web.jpg",
+    "Title": "You Were Never Really Here",
+    "TitleBA": "ZAISTA, NIKAD NISI BIO OVDJE",
+    "Duration": "89",
+    "Genre": "Drama, misterija, triler",
+    "Director": "Lynne Ramsay",
+    "Cast": "Joaquin Phoenix, Dante Pereira-Olson, Larry Canady...",
+    "SiteMovieId": "1212",
+    "Storyline": "Veteran rata sa traumama, bez straha od nasilja, pokušava da pronađe nestale djevojke. Kada Joe (Joaquin Phoenix) ima noćne more i počne kontzrolu nad situacijom, dolazi do njegove lične zavjere koju mora otkriti. da li je to što radi siguran put u smrt ili njegovo buđenje...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1212_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=_kzZ-3MUSss",
+    "Showtimes": [
+      {
+        "Id": "ba94f61d-2247-450b-aeb9-d03e89fcfeb9",
+        "DateTime": "2018-03-11T16:00:00"
+      },
+      {
+        "Id": "a5ee37bc-5321-4bc8-8820-8dff3cb2c6ee",
+        "DateTime": "2018-03-11T18:00:00"
+      },
+      {
+        "Id": "a04b2793-8cde-4122-9b6f-674a00ae3d88",
+        "DateTime": "2018-03-11T20:00:00"
+      },
+      {
+        "Id": "49c3e848-0033-48f1-8f6f-84c7811ee5da",
+        "DateTime": "2018-03-12T16:00:00"
+      },
+      {
+        "Id": "a5b90828-5af3-4517-982a-2422cc2e8778",
+        "DateTime": "2018-03-12T18:00:00"
+      },
+      {
+        "Id": "888056bf-c5fb-4ebb-83bd-e5cd65253f61",
+        "DateTime": "2018-03-12T20:00:00"
+      },
+      {
+        "Id": "8c0cc4b9-6bac-4194-8187-1470945acb67",
+        "DateTime": "2018-03-13T16:00:00"
+      },
+      {
+        "Id": "5729ee46-3892-4b3c-98f8-f5b44782fa34",
+        "DateTime": "2018-03-13T18:00:00"
+      },
+      {
+        "Id": "b8592565-ac41-4de1-b8f1-265727b255ef",
+        "DateTime": "2018-03-13T20:00:00"
+      },
+      {
+        "Id": "9b19ed9a-4262-4189-beeb-d9d20d1f13a6",
+        "DateTime": "2018-03-14T16:00:00"
+      },
+      {
+        "Id": "88a3a3c4-7488-4a6b-908b-f1da04087263",
+        "DateTime": "2018-03-14T18:00:00"
+      },
+      {
+        "Id": "885d32c0-d35e-42b5-a2b2-f2abfab7c4ff",
+        "DateTime": "2018-03-08T16:00:00"
+      },
+      {
+        "Id": "4cd2cf39-fb8d-4b5a-92db-1fb6a9d4fd50",
+        "DateTime": "2018-03-08T18:00:00"
+      },
+      {
+        "Id": "37e0c086-2ea2-40d2-96f4-a9be1ab05568",
+        "DateTime": "2018-03-08T20:00:00"
+      },
+      {
+        "Id": "5551b51d-7829-436f-a028-539594c452e3",
+        "DateTime": "2018-03-09T16:00:00"
+      },
+      {
+        "Id": "f953c479-03d0-4be1-a2f8-dac40ef10054",
+        "DateTime": "2018-03-09T18:00:00"
+      },
+      {
+        "Id": "5da134d5-8d1d-42d0-8933-83f78033b522",
+        "DateTime": "2018-03-09T20:00:00"
+      },
+      {
+        "Id": "c9452af8-42a0-4a52-9360-08fd9a4cdadc",
+        "DateTime": "2018-03-09T22:00:00"
+      },
+      {
+        "Id": "18b21f37-d3d8-4b4f-a2e3-6184dfb33fbb",
+        "DateTime": "2018-03-10T16:00:00"
+      },
+      {
+        "Id": "a8ed01f5-7827-466e-8e17-7e36ee29f20b",
+        "DateTime": "2018-03-10T18:00:00"
+      },
+      {
+        "Id": "6b2de1b8-3b4c-4c68-ae8c-297b643ffcc0",
+        "DateTime": "2018-03-10T20:00:00"
+      },
+      {
+        "Id": "f4b1b3f0-7b38-42c1-8e0f-2fda2d5208a1",
+        "DateTime": "2018-03-10T22:00:00"
+      }
+    ]
+  },
+  {
+    "Id": "e000fe8e-29c8-462c-968c-3eaa06d583de",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1194_0_web.jpg",
+    "Title": "The Foreigner",
+    "TitleBA": "STRANAC",
+    "Duration": "114",
+    "Genre": "Akcijski, triler",
+    "Director": "Martin Campbell",
+    "Cast": "Jackie Chan, Pierce Brosnan, Charlie Murphy...",
+    "SiteMovieId": "1194",
+    "Storyline": "Priča o skromnom londonskom poduzetniku Quanu, koji traži osvetu kada njegova jedina kći biva ubijena u terorističkom činu. U neumornoj potrazi za identitetom ubojice svoje kćeri, Quan je prisiljen na igru mačke i miša s vladinim dužnosnikom, čija bi prošlost mogla voditi do tragova identiteta ubojice...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1194_1_1_(2).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=znqL8QY8x7s",
+    "Showtimes": [
+      {
+        "Id": "a036be66-b82f-4b1a-9d64-614fb5752f58",
+        "DateTime": "2018-03-11T16:05:00"
+      },
+      {
+        "Id": "dd5c3b72-f6a7-4457-afa9-a4cbc573502c",
+        "DateTime": "2018-03-11T18:20:00"
+      },
+      {
+        "Id": "8372f441-5b30-4535-9a1f-eb2caec52613",
+        "DateTime": "2018-03-11T20:40:00"
+      },
+      {
+        "Id": "0cab9584-4966-4f74-a17c-0a53f7057218",
+        "DateTime": "2018-03-12T16:05:00"
+      },
+      {
+        "Id": "60cac894-14e2-481c-adc9-ff772e7a73a7",
+        "DateTime": "2018-03-12T18:20:00"
+      },
+      {
+        "Id": "03e6cc89-18fb-4fb1-8dd8-e76820862d53",
+        "DateTime": "2018-03-12T20:40:00"
+      },
+      {
+        "Id": "b381dff9-378b-43d6-b35f-019cc057a64b",
+        "DateTime": "2018-03-13T16:05:00"
+      },
+      {
+        "Id": "a99a68d7-e804-4139-9ad1-206c3c1782e8",
+        "DateTime": "2018-03-13T18:20:00"
+      },
+      {
+        "Id": "6b9fab94-3d3b-44ec-83ef-3bae45b440b2",
+        "DateTime": "2018-03-13T20:40:00"
+      },
+      {
+        "Id": "5d0ab36f-5eea-48ea-b474-df52f7cec9c0",
+        "DateTime": "2018-03-14T16:05:00"
+      },
+      {
+        "Id": "b916c5dc-2131-4973-ae4f-6a687b14c8c8",
+        "DateTime": "2018-03-14T18:20:00"
+      },
+      {
+        "Id": "64af2e30-0d8f-40fa-a6cd-446d58d785d3",
+        "DateTime": "2018-03-14T20:40:00"
+      },
+      {
+        "Id": "ff58b7d2-8281-48b9-bfba-585dcdd4ad6c",
+        "DateTime": "2018-03-08T16:05:00"
+      },
+      {
+        "Id": "50080953-0144-465c-95fa-b78d662b7390",
+        "DateTime": "2018-03-08T18:20:00"
+      },
+      {
+        "Id": "0a1ab93c-5826-411c-b213-3cb35f1d6df3",
+        "DateTime": "2018-03-08T20:40:00"
+      },
+      {
+        "Id": "52609358-06e4-4e2c-bdaa-0001b09bb1bc",
+        "DateTime": "2018-03-09T16:05:00"
+      },
+      {
+        "Id": "47af30c9-3d98-432b-af00-3c6d0e31f451",
+        "DateTime": "2018-03-09T18:20:00"
+      },
+      {
+        "Id": "30e9fc3c-f54a-4a14-b1bb-11c049983569",
+        "DateTime": "2018-03-09T20:40:00"
+      },
+      {
+        "Id": "e9d45c75-a392-4d62-9572-1c4be93eb3c3",
+        "DateTime": "2018-03-09T23:00:00"
+      },
+      {
+        "Id": "b5316c3d-3423-4bc4-a377-e6522c68d71a",
+        "DateTime": "2018-03-10T16:05:00"
+      },
+      {
+        "Id": "13fe674c-a6e6-4f49-8442-34c7defa790b",
+        "DateTime": "2018-03-10T18:20:00"
+      },
+      {
+        "Id": "a3456b88-1492-428a-966f-416b34c1a34b",
+        "DateTime": "2018-03-10T20:40:00"
+      },
+      {
+        "Id": "4e610cf7-ee8d-4574-95a4-410b951cdd7c",
+        "DateTime": "2018-03-10T23:00:00"
+      }
+    ]
+  },
+  {
+    "Id": "1f2e5780-8e20-4286-b226-98e54569d858",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1199_0_web.jpg",
+    "Title": "Red Sparrow",
+    "TitleBA": "CRVENI VRABAC",
+    "Duration": "140",
+    "Genre": "Triler",
+    "Director": "Francis Lawrence",
+    "Cast": "Jennifer Lawrence, Joel Edgerton, Jeremy Irons...",
+    "SiteMovieId": "1199",
+    "Storyline": "Temeljeno na bestseleru New York Timesa, radnja se odvija se u suvremenoj Rusiji, a prati život Dominike Egorove (Jennifer Lawrence). Dominika je puno toga. Predana kći koja će zaštititi svoju majku pod svaku cijenu. Prima balerina koja je svoj um i tijelo dovela do apsolutnih granica. Stručnjakinja u zavođenju i manipulaciji.  Kada zbog ozljede mora prestati sa svojom karijerom, Dominika i njena majka bivaju suočene s neizvjesnom i tamnom budućnošću. Protiv njezine volje naređeno joj je se prijavi u Sparrow School, tajnu obavještajnu službu koja obučava mlade ljude da koriste svoje tijelo i um kao oružje...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1199_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=ufaeGvvdTUk",
+    "Showtimes": [
+      {
+        "Id": "49a5ad33-0024-44f7-a1d2-f350bec1a73e",
+        "DateTime": "2018-03-11T17:35:00"
+      },
+      {
+        "Id": "f87a637b-e8d8-423e-b968-46bdfb46b945",
+        "DateTime": "2018-03-11T20:20:00"
+      },
+      {
+        "Id": "4745f496-ae19-4011-952c-c93066cb6dbc",
+        "DateTime": "2018-03-12T17:35:00"
+      },
+      {
+        "Id": "6182ba59-a780-4c0d-9e19-aa3c00a5eec7",
+        "DateTime": "2018-03-12T20:20:00"
+      },
+      {
+        "Id": "15012243-7581-4e80-a2a2-266aed115fe2",
+        "DateTime": "2018-03-13T17:35:00"
+      },
+      {
+        "Id": "2580a26a-4efb-479c-9698-388f07227433",
+        "DateTime": "2018-03-13T20:20:00"
+      },
+      {
+        "Id": "24b1bae5-cb88-4898-aea5-03d45ac82080",
+        "DateTime": "2018-03-14T17:35:00"
+      },
+      {
+        "Id": "8a789c69-d140-4ea5-bab1-1cdd567f8c36",
+        "DateTime": "2018-03-14T20:20:00"
+      },
+      {
+        "Id": "cf2dfebf-8551-4a95-8f7c-a447199eab25",
+        "DateTime": "2018-03-08T17:35:00"
+      },
+      {
+        "Id": "07432092-a21d-4302-bcd9-c85dadcf4649",
+        "DateTime": "2018-03-08T20:20:00"
+      },
+      {
+        "Id": "00c0a12c-d1ec-4e4b-9d4c-b74e19cc3c8c",
+        "DateTime": "2018-03-09T17:35:00"
+      },
+      {
+        "Id": "e2f1aa52-7b1b-4625-88c7-ac88acebbe3d",
+        "DateTime": "2018-03-09T20:20:00"
+      },
+      {
+        "Id": "d5824e77-fe54-4cd7-be61-13cc06470b07",
+        "DateTime": "2018-03-09T23:05:00"
+      },
+      {
+        "Id": "b1c559db-302c-4913-af12-8263b29ec155",
+        "DateTime": "2018-03-10T17:35:00"
+      },
+      {
+        "Id": "a61ac193-8733-4dfc-a464-38f2c0a2b0a3",
+        "DateTime": "2018-03-10T20:20:00"
+      },
+      {
+        "Id": "71ca7a67-376b-47f1-ad31-2e68112393cb",
+        "DateTime": "2018-03-10T23:05:00"
+      }
+    ]
+  },
+  {
+    "Id": "0cfbfd43-fe9b-47f6-98ab-6e7b2dee114d",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1211_0_web.jpg",
+    "Title": "Lady Bird",
+    "TitleBA": "LADY BIRD",
+    "Duration": "94",
+    "Genre": "Komedija, drama",
+    "Director": "Greta Gerwig",
+    "Cast": "Saoirse Ronan, Laurie Metcalf, Tracy Letts...",
+    "SiteMovieId": "1211",
+    "Storyline": "Adolescencija je težak period. Svi ga moramo proći, no, ne preživimo ga svi jednako uspješno. Borimo se s promjenama i izazovima najbolje što znamo, dok učimo o sebi, životu i ljudima oko sebe, i tragamo za onim što želimo postati. Glavna junakinja filma, sedamnaestogodišnja je učenica viših razreda katoličke srednje škole u Sacramentu, u Kaliforniji. Roditelji su joj po rođenju nadjenuli ime Christine McPherson, no, ona odbacuje to ime i predstavlja se pseudonimom Lady Bird. Između prvih ljubavi, sudjelovanja u školskoj predstavi i prijave na fakultet, ona je umjetnička duša koja čezne za avanturom, sofisticiranosti i prilikama. Ništa od toga ne pronalazi u svojoj okolini pa naginje ka tome da zaluta na krivi put. Lady Bird i njezina mama, stalno su na ivici odnosa između dijeljenja radosnih trenutaka i razbuktalih sukoba...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1211_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=LswZzDxMm1E",
+    "Showtimes": [
+      {
+        "Id": "5228dca4-5844-4079-b31d-d258443b4d4a",
+        "DateTime": "2018-03-11T16:20:00"
+      },
+      {
+        "Id": "41f7638a-a5e3-402d-9446-6efc8d611b81",
+        "DateTime": "2018-03-12T16:20:00"
+      },
+      {
+        "Id": "e160586c-52bc-4799-9b0d-3b28b6438693",
+        "DateTime": "2018-03-13T16:20:00"
+      },
+      {
+        "Id": "4eb6dc39-0807-4f99-bb46-95effc05af61",
+        "DateTime": "2018-03-14T16:20:00"
+      },
+      {
+        "Id": "cde196d8-1027-4486-8313-da3e81c7766d",
+        "DateTime": "2018-03-08T16:20:00"
+      },
+      {
+        "Id": "0bc60e5b-87b5-41c0-895b-7ad6e95ab29c",
+        "DateTime": "2018-03-09T16:20:00"
+      },
+      {
+        "Id": "75998874-58d9-48da-bd8b-0bfbb33083a1",
+        "DateTime": "2018-03-10T16:20:00"
+      }
+    ]
+  },
+  {
+    "Id": "864cde24-3390-433e-b667-55b36d31ce20",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1197_0_web2.jpg",
+    "Title": "Game Night",
+    "TitleBA": "NOĆ IGRE",
+    "Duration": "93",
+    "Genre": "Komedija",
+    "Director": "John Francis Daley, Jonathan Goldstein",
+    "Cast": "Rachel McAdams, Jason Bateman, Jesse Plemons...",
+    "SiteMovieId": "1197",
+    "Storyline": "Okosnica filma je grupa prijatelja koja se redovito sastaje kako bi zajedno provodili večeri uz druženje i igre. Te su večeri svima dugogodišnja tradicija, a ujedno i bijeg od svakodnevnih briga, sve dok jedne večeri ne svjedoče događaju koji će im promijeniti život...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1197_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=RZBODj7SLn0",
+    "Showtimes": [
+      {
+        "Id": "7df80860-4c9b-45ae-8140-b4a855aa3c41",
+        "DateTime": "2018-03-11T20:40:00"
+      },
+      {
+        "Id": "95065f0d-168f-4c1f-a549-fa1ff9cd66ec",
+        "DateTime": "2018-03-12T20:40:00"
+      },
+      {
+        "Id": "218a7345-d873-47aa-8435-06d937f8bd2e",
+        "DateTime": "2018-03-13T20:40:00"
+      },
+      {
+        "Id": "31332043-071c-4ee0-9336-fae039fbd2ca",
+        "DateTime": "2018-03-14T20:40:00"
+      },
+      {
+        "Id": "d41107c0-e28f-4172-b8e6-69a64fd4634e",
+        "DateTime": "2018-03-08T20:40:00"
+      },
+      {
+        "Id": "f493d5d6-52f2-4a54-9413-e8202019de2b",
+        "DateTime": "2018-03-09T20:40:00"
+      },
+      {
+        "Id": "6d240ef5-42e7-4abe-9bed-5013cd62f646",
+        "DateTime": "2018-03-09T22:45:00"
+      },
+      {
+        "Id": "0f0c052a-bf91-4499-980f-47e1efde075d",
+        "DateTime": "2018-03-10T20:40:00"
+      },
+      {
+        "Id": "5bfc56c9-9c1b-4128-8af6-0b38f65b5f5f",
+        "DateTime": "2018-03-10T22:45:00"
+      }
+    ]
+  },
+  {
+    "Id": "546b950e-f521-4798-8025-1c046b2f4786",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1196_0_web.jpg",
+    "Title": "Three Billboards Outside Ebbing, Missouri",
+    "TitleBA": "TRI PLAKATA IZVAN GRADA",
+    "Duration": "115",
+    "Genre": "Kriminalistički, drama",
+    "Director": "Martin McDonagh",
+    "Cast": "Frances McDormand, Woody Harrelson, Sam Rockwell...",
+    "SiteMovieId": "1196",
+    "Storyline": "Van grada Ebbinga, u Missouriju, objavljena su tri plakata s pomoću kojih Mildred Hayes (neponovljiva Frances McDormand) proziva šerifa Williama Willoughbyja (Woody Harrelson) da nije ništa poduzeo glede umorstva njene kćeri.    Neobična priča prati ženu koja kreće u pravi mali rat protiv policije, a na kraju i protiv cijeloga gradića u državi Missouri...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1196_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=yCKjNBdzwI8",
+    "Showtimes": [
+      {
+        "Id": "a375a712-ef6f-4013-a16d-0dc7d0a5e381",
+        "DateTime": "2018-03-11T18:20:00"
+      },
+      {
+        "Id": "8948ece0-d55f-4811-8f70-d1e3f83db684",
+        "DateTime": "2018-03-12T18:20:00"
+      },
+      {
+        "Id": "53943b67-e180-4ae7-8eec-a85e980242f4",
+        "DateTime": "2018-03-13T18:20:00"
+      },
+      {
+        "Id": "5b26477e-903e-48d8-91e6-b563717b076e",
+        "DateTime": "2018-03-14T18:20:00"
+      },
+      {
+        "Id": "65a489d3-2407-46c6-99aa-ad3921dfc426",
+        "DateTime": "2018-03-08T18:20:00"
+      },
+      {
+        "Id": "ddd8d9cc-e7ba-43f9-82fd-b414b9145ec1",
+        "DateTime": "2018-03-09T18:20:00"
+      },
+      {
+        "Id": "922e4297-b299-43e1-91f8-2042d059652b",
+        "DateTime": "2018-03-10T18:20:00"
+      }
+    ]
+  },
+  {
+    "Id": "8389fc55-a0fc-4d36-96b3-eba3516a1496",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1213_0_web.jpg",
+    "Title": "Black Panther",
+    "TitleBA": "BLACK PANTHER ",
+    "Duration": "134",
+    "Genre": "Akcija, avantura, Sci-Fi",
+    "Director": "Ryan Coogler",
+    "Cast": "Chadwick Boseman, Michael B. Jordan,Danai Gurira...",
+    "SiteMovieId": "1213",
+    "Storyline": "Marvelov film Black Panther prati TChallu koji se nakon smrti svog oca, kralja Wakande, vraća kući u zatvorenu, tehnički naprednu afričku državu kako bi zasjeo na prijestolje i postao novim kraljem. Ali tad se ponovo javi stari neprijatelj, a TChallin je karakter kralja i Black Panthera stavljen na kušnju kad se uvuče u strašan sukob zbog kojeg je ugrožen opstanak Wakande i cijelog svijeta. Suočen s izdajom i opasnošću, mladi kralj mora okupiti svoje saveznike i osloboditi moć Black Panthera kako bi porazio svoje neprijatelje i omogućio sigurnost svom narodu i njihovom načinu života...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1213_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=7EYr3jz0KiU",
+    "Showtimes": [
+      {
+        "Id": "fabce7fb-289c-486d-a39d-c8eedcb48941",
+        "DateTime": "2018-03-11T17:50:00"
+      },
+      {
+        "Id": "7d5b4a04-ef8f-4605-89ad-d81b70951273",
+        "DateTime": "2018-03-12T17:50:00"
+      },
+      {
+        "Id": "e6e42735-67df-4ab5-85e4-b04f73f76f3a",
+        "DateTime": "2018-03-13T17:50:00"
+      },
+      {
+        "Id": "9852d4b2-8764-4e91-9886-f11b0eb264c4",
+        "DateTime": "2018-03-14T17:50:00"
+      },
+      {
+        "Id": "e8224dfb-4812-4e6b-88eb-a4b2b6bb78be",
+        "DateTime": "2018-03-08T17:50:00"
+      },
+      {
+        "Id": "f3a6bca9-224a-4157-8190-c29c3960b5e0",
+        "DateTime": "2018-03-09T17:50:00"
+      },
+      {
+        "Id": "6198b5d9-8af3-4121-a8e8-6ae4fa43d701",
+        "DateTime": "2018-03-10T17:50:00"
+      }
+    ]
+  },
+  {
+    "Id": "38e971d2-2a48-4d72-91e9-5feb4be8b3f4",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1198_0_web.jpg",
+    "Title": "Maya the Bee: The Honey Games",
+    "TitleBA": "PČELICA MAJA: MEDENE IGRE 3D",
+    "Duration": "85",
+    "Genre": "Animacija, obiteljski, avantura",
+    "Director": "Noel Cleary, Alexs Stadermann",
+    "Cast": "Sandra Hrenar, Mateo Videk, Mirela Videk...",
+    "SiteMovieId": "1198",
+    "Storyline": "Pčelica Maja se pojavila prije više od stotinu godina i ubrzo postala jedna od najčitanijih knjiga tog vremena, omiljena i kod odraslih i kod djece. Nakon prve filmske uspješnice koja je oduševila publiku svih generacija, stiže nam nastavak medene priče. Majina je košnica i ovog puta prepuna uzbuđenja. Ljeto je završilo i stigao je dostojanstvenik iz Buzztropolisa s važnom porukom za kraljicu.    Hoće li se njezina košnica konačno pozvati na Medene igre?... ",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1198_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=mHC3J64gjc8",
+    "Showtimes": [
+      {
+        "Id": "cf38bb7c-b722-462b-9e1a-7382c2a8da84",
+        "DateTime": "2018-03-11T11:50:00"
+      },
+      {
+        "Id": "78e5be1d-fd74-42a3-b6f9-cc23e5cf7629",
+        "DateTime": "2018-03-11T13:45:00"
+      },
+      {
+        "Id": "5d428168-f5b8-47a6-990e-1279df2fff3f",
+        "DateTime": "2018-03-11T15:40:00"
+      },
+      {
+        "Id": "34fae739-03f9-4aa5-b456-0565b0015319",
+        "DateTime": "2018-03-12T15:40:00"
+      },
+      {
+        "Id": "ec89a840-d755-4769-9618-77d5fbc39715",
+        "DateTime": "2018-03-13T15:40:00"
+      },
+      {
+        "Id": "b7a831be-676a-4e61-8ee0-6273d03398e4",
+        "DateTime": "2018-03-14T15:40:00"
+      },
+      {
+        "Id": "458590f2-8558-4e01-bfa2-6f84ea7c5c4c",
+        "DateTime": "2018-03-08T15:40:00"
+      },
+      {
+        "Id": "4b3e114c-6604-4c3d-9cbc-87918733af08",
+        "DateTime": "2018-03-09T15:40:00"
+      },
+      {
+        "Id": "5d2f2b6a-bcf7-4801-9b57-daa1c7b07d33",
+        "DateTime": "2018-03-10T11:50:00"
+      },
+      {
+        "Id": "e94e3c8b-8b82-486f-8c60-1274b51065e4",
+        "DateTime": "2018-03-10T13:45:00"
+      },
+      {
+        "Id": "f903dfd6-af84-42ac-9294-66bcb64d161f",
+        "DateTime": "2018-03-10T15:40:00"
+      }
+    ]
+  },
+  {
+    "Id": "defde20e-f699-458d-b5e8-67fe6132c7ca",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1218_0_web.jpg",
+    "Title": "Maya the Bee: The Honey Games",
+    "TitleBA": "PČELICA MAJA: MEDENE IGRE ",
+    "Duration": "85",
+    "Genre": "Animacija, obiteljski, avantura",
+    "Director": "Noel Cleary, Alexs Stadermann",
+    "Cast": "Sandra Hrenar, Mateo Videk, Mirela Videk...",
+    "SiteMovieId": "1218",
+    "Storyline": "Pčelica Maja se pojavila prije više od stotinu godina i ubrzo postala jedna od najčitanijih knjiga tog vremena, omiljena i kod odraslih i kod djece. Nakon prve filmske uspješnice koja je oduševila publiku svih generacija, stiže nam nastavak medene priče. Majina je košnica i ovog puta prepuna uzbuđenja. Ljeto je završilo i stigao je dostojanstvenik iz Buzztropolisa s važnom porukom za kraljicu...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1218_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=mHC3J64gjc8",
+    "Showtimes": [
+      {
+        "Id": "41cd340d-aa7b-45fa-a4fd-00cea14af9a0",
+        "DateTime": "2018-03-11T12:20:00"
+      },
+      {
+        "Id": "845e8116-e245-40d0-a218-10c4cc371ea5",
+        "DateTime": "2018-03-11T14:10:00"
+      },
+      {
+        "Id": "561821b8-966a-497d-8e01-9d261eebb623",
+        "DateTime": "2018-03-12T14:10:00"
+      },
+      {
+        "Id": "61bcbafe-23d6-4af5-8ba0-213d51b0f960",
+        "DateTime": "2018-03-13T14:10:00"
+      },
+      {
+        "Id": "9d8cfde1-af32-482c-8c1c-15cfee8dc2a5",
+        "DateTime": "2018-03-14T14:10:00"
+      },
+      {
+        "Id": "5cd1f2b0-5154-4a10-973c-2dda7f2bb0fa",
+        "DateTime": "2018-03-08T14:10:00"
+      },
+      {
+        "Id": "a086369c-1655-485e-ab98-0d4827907d69",
+        "DateTime": "2018-03-09T14:10:00"
+      },
+      {
+        "Id": "cb0049d7-c613-4fca-b531-259fb613fa26",
+        "DateTime": "2018-03-10T12:20:00"
+      },
+      {
+        "Id": "052f0072-9700-44b5-aeb1-a01b6814fcc0",
+        "DateTime": "2018-03-10T14:10:00"
+      }
+    ]
+  },
+  {
+    "Id": "4394175b-2d96-4a37-b593-b0b14d7abdac",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1192_0_web.jpg",
+    "Title": "Early Man",
+    "TitleBA": "DUGI IZ KAMENOG DOBA",
+    "Duration": "89",
+    "Genre": "Animacija, obiteljski, avantura",
+    "Director": "Nick Park",
+    "Cast": "Dušan Bućan, Dražen Bratulić, Ranko Tihomirović...",
+    "SiteMovieId": "1192",
+    "Storyline": "Urnebesna prapovijesna avantura napravljena u poznatom Aardmanovom animacijskom stilu. Smještena u doba prapovijesti, kada su opasne zvijeri i dlakavi mamuti gospodarili zemljom, pričom prati pećinskog čovjeka (Dugi) koji zajedno sa svojim najboljim prijateljem, divljom svinjom Hognobom,  pokušava ujediniti njihovo pleme u borbi protiv moćnih neprijatelja koji im prijete...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1192_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=RozUQ8_bv3E",
+    "Showtimes": [
+      {
+        "Id": "a336a8e6-594f-40d1-ab23-5b283e9dc1a9",
+        "DateTime": "2018-03-11T12:30:00"
+      },
+      {
+        "Id": "223ee78e-565c-48cc-9483-4e60c2418a30",
+        "DateTime": "2018-03-11T14:25:00"
+      },
+      {
+        "Id": "45854d89-eea4-491b-98b8-482aee356e6f",
+        "DateTime": "2018-03-12T14:25:00"
+      },
+      {
+        "Id": "b11b7efa-90c6-4fec-8258-764d8c02f958",
+        "DateTime": "2018-03-13T14:25:00"
+      },
+      {
+        "Id": "8fcb3107-aa21-4e9a-9b82-4e74f76adfc2",
+        "DateTime": "2018-03-14T14:25:00"
+      },
+      {
+        "Id": "e4864173-74fd-4de6-a260-8b8b7749d991",
+        "DateTime": "2018-03-08T14:25:00"
+      },
+      {
+        "Id": "84e3a169-2df3-46ed-9e5f-14f837cac063",
+        "DateTime": "2018-03-09T14:25:00"
+      },
+      {
+        "Id": "c8bfa339-dd3c-427c-9084-6cf4d523af76",
+        "DateTime": "2018-03-10T12:30:00"
+      },
+      {
+        "Id": "5cc95c91-d7da-4f95-8413-edfcd6c00577",
+        "DateTime": "2018-03-10T14:25:00"
+      }
+    ]
+  },
+  {
+    "Id": "cf4b9602-d51b-45cf-a385-f62ae762da70",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1170_0_web.jpg",
+    "Title": "The Little Vampire",
+    "TitleBA": "VAMPIRKO ",
+    "Duration": "83",
+    "Genre": "Animirani",
+    "Director": "Richard Claus, Karsten Kiilerich",
+    "Cast": "Rasmus Hardiker, Amy Saville, Jim Carter...",
+    "SiteMovieId": "1170",
+    "Storyline": "Omiljeno štivo dječaka Antuna jezive su priče, osobito o vampirima. No, dobio je priliku upoznati pravog pravcatog mladog vampira Rudija, pa i njegovu sestricu Anu i štoviše postali su i prijatelji. Rudi se pokazao kao drag i ljubazan, a najveću zapetljanciju u cijeloj priči izazvali su pokušaji Antunovih roditelja da upoznaju njegova prijatelja. Ali kako objasniti neobičnosti vezane uz Rudija - otrcani crni plašt koji nikada ne skida i koji k tome neobično zaudara, zašto dolazi u sitne noćne sate i zašto stalno rukom pokriva usta...",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1170_1_1_(1).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=SfbUm6b3Dio",
+    "Showtimes": [
+      {
+        "Id": "16e15839-dede-40a4-9a33-5db23f2dc2bc",
+        "DateTime": "2018-03-11T12:00:00"
+      },
+      {
+        "Id": "cfdaca08-b01f-4b01-a550-f9c189072f4c",
+        "DateTime": "2018-03-11T13:55:00"
+      },
+      {
+        "Id": "ff033e35-5de6-4b08-8673-d1eb00bcc9ab",
+        "DateTime": "2018-03-10T12:00:00"
+      },
+      {
+        "Id": "cd17f141-8988-4659-9f76-3f0274eba9e2",
+        "DateTime": "2018-03-10T13:55:00"
+      }
+    ]
+  },
+  {
+    "Id": "0bd60638-f08a-41e8-b266-f5460087a345",
+    "PosterLink": "http://cinemacity.ba/upload/mala_1177_0_mala_1164_0_web.jpg",
+    "Title": "Ferdinand",
+    "TitleBA": "FERDINAND",
+    "Duration": "109",
+    "Genre": "Animacija, komedija, obiteljski",
+    "Director": "Carlos Saldanha",
+    "Cast": "Igor Kovač, Renata Sabljak, Ozren Grabarić...",
+    "SiteMovieId": "1177",
+    "Storyline": "Od redatelja velikih animiranih hitova Rio i Ledeno doba, stiže Ferdinand, film o velikom biku sa još većim srcem koji bi radije mirisao cvijeće, nego ulazio u borbu sa matadorima. Nakon što su ga ljudi pogrešno doživjeli kao jednu razuzdanu zvijer, Ferdinanda zarobljavaju i odvode od kuće. Odlučan da se vrati u obitelj, on okuplja tim krajnjih suprotnosti i kreće na nevjerojatnu avanturu.",
+    "PhotoUrl": "http://www.cinemacity.ba/upload/1177_1_1164_2_1_(2).jpg",
+    "VideoUrl": "https://www.youtube.com/watch?v=8Oy0lMEVkCI",
+    "Showtimes": [
+      {
+        "Id": "db725c8f-3555-4e9a-886b-d0d13d21ace5",
+        "DateTime": "2018-03-11T11:35:00"
+      },
+      {
+        "Id": "14b5bc41-4f25-482b-a52e-e132d1bd2a75",
+        "DateTime": "2018-03-11T13:50:00"
+      },
+      {
+        "Id": "a725dc1a-83f1-40f1-835d-2b573c27359b",
+        "DateTime": "2018-03-10T11:35:00"
+      },
+      {
+        "Id": "2b02f820-a9c7-4725-8e33-401fec49c101",
+        "DateTime": "2018-03-10T13:50:00"
+      }
+    ]
+  }
+]
